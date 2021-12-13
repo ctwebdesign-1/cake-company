@@ -31,7 +31,6 @@ time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
-  list: none;
   text-decoration: none;
 }
 
@@ -359,7 +358,6 @@ table {
   .hero img {
     display: block;
     height: 91.5%;
-    max-width: auto;
     box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.6);
     margin: auto;
   }
@@ -373,12 +371,6 @@ table {
     text-align: left;
     max-width: 1000px;
     margin-top: 25rem;
-  }
-
-  .about img {
-    position: relative;
-    left: 830rem;
-    top: -525rem;
   }
 
   .colouredvbar {
